@@ -5,7 +5,7 @@ I made this personal portfolio to improve my HTML5 and CSS3 skills⭐️
 - HTML5
 - CSS3
 
-### 💪🏻 I got support from [this](https://www.youtube.com/watch?v=ONqgNVWJ-Dw&ab_channel=TheWebShala) site on Youtube.
+### 💪🏻 I got support from [this](https://www.youtube.com/watch?v=ONqgNVWJ-Dw&ab_channel=TheWebShala) site on YouTube.
 
 ### 👀 Preview (Still I got some problems but I'm trying to fix them) 
 
